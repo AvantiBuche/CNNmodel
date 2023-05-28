@@ -1,6 +1,8 @@
 # CNN Model for Image Classification and Similar Product Recommendation
 
 ## Dataset
+### Source: https://www.kaggle.com/datasets/avantibuche/3991-fashion-images-dataset-with-15-labels
+
 This dataset has 15 labels with 3991 colored images.
 Each labels has different number of images and sizes.
 The labels are: Bag, Blazer, Cap, Dress, Jwellery, Outwear, Pants, Scarf, Shoes, Shorts, Skirt, Sunglasses, T-Shirt, Top, Vallet.
