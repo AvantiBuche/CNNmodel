@@ -2,7 +2,7 @@
 
 ## Dataset
 This dataset has 15 labels with 3391 colored images.
-Each labels have different number of images and sizes.
+Each labels has different number of images and sizes.
 The labels are: Bag, Blazer, Cap, Dress, Jwellery, Outwear, Pants, Scarf, Shoes, Shorts, Skirt, Sunglasses, T-Shirt, Top, Vallet.
 
 #Model Summary
