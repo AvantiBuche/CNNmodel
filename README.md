@@ -2,6 +2,7 @@
 
 ## Dataset
 ### Source: https://www.kaggle.com/datasets/avantibuche/3991-fashion-images-dataset-with-15-labels
+![download](https://github.com/AvantiBuche/CNNmodel/assets/127451991/a8522866-04a3-4c15-b4ce-7dccfb0ddcc1)
 
 This dataset has 15 labels with 3991 colored images.
 Each labels has different number of images and sizes.
